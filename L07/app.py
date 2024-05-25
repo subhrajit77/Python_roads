@@ -13,3 +13,6 @@ course = 'python for Beginners'
 print(course)
 print(course.upper())
 print(course.find('B'))
+print(course.replace('Beginners', 'Absolute Beginners'))
+
+print('python' in course)
