@@ -10,3 +10,6 @@ print(numbers)
 # clear to remove all numbers 
 # numbers.clear()
 # print(numbers)
+print(numbers.index(2))
+#  " in " return a boolean value
+print(50 in numbers)
