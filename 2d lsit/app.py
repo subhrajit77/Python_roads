@@ -5,5 +5,8 @@ matrix = [
 
 ]
 
-print(matrix)
-print(matrix[0][1])
+# print(matrix)
+# print(matrix[0][1])
+for row in matrix:
+    for item in row:
+        print(item)
