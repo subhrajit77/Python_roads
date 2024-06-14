@@ -21,4 +21,7 @@ class Person:
 
 person1 = Person("Ashish")
 # print(person1.name)
-person1.talk()           
+person1.talk()   
+
+bob= Person("Bob Smith")
+bob.talk()
